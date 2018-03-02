@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "874FD091-EDA8-4C88-913D-371C2F74976D",
+  "changeIdentifier": 3,
+  "do_objectID": "DD601365-9703-42F2-BC4D-E84AB3105FA9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": -319,
-    "y": -177
+    "height": 91,
+    "width": 899,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,6 +35,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -43,20 +45,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "0AD3791B-C225-434F-A631-600C743AC4AB"
+      "class": "group",
+      "id": "9C5C2503-22B7-4671-B2DF-1E3052592EB2"
     }
   ],
-  "name": "Desktop HD",
+  "name": "B",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD",
-    "offersLandscapeVariant": 0,
-    "width": 1440
-  },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -67,6 +62,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "B2A0ACFC-913F-4B9D-B4D1-0378EBE36EF2",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
